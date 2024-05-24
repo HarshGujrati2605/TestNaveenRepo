@@ -6,7 +6,6 @@ public class Hello {
 		System.out.println("Hello");
 		int a =5;
 		System.out.println(a);
-
 	}
 
 }
